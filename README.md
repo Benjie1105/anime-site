@@ -1,2 +1,0 @@
-# anime-site
-Anime site
